@@ -2,6 +2,7 @@ package goth
 
 import "fmt"
 
+//this is my booty
 // Provider needs to be implemented for each 3rd party authentication provider
 // e.g. Facebook, Twitter, etc...
 type Provider interface {
