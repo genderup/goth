@@ -25,6 +25,7 @@ func UseProviders(viders ...Provider) {
 }
 
 // GetProviders returns a list of all the providers currently in use.
+//duh
 func GetProviders() Providers {
 	return providers
 }
